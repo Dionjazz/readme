@@ -6,7 +6,7 @@ Technologies:
 - WebKit
 - CoreData
 - Firebase
-- Realm
+- Realm 
 - SDWebImage
 - Alamofire
 - Viper
@@ -14,5 +14,3 @@ Technologies:
 - MVP
 - MVVM
 
-
-Xcode, Android studio
